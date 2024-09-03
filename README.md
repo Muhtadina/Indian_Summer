@@ -1,5 +1,4 @@
-# Indian Summer
-A. Indian Summer: https://codeforces.com/problemset/problem/44/A
+# [Indian Summer: Problem 44/A](https://codeforces.com/problemset/problem/44/A)
 
 Indian summer is such a beautiful time of the year!
 A girl named Alyona is walking in the forest and picking a bouquet from fallen leaves.
@@ -17,23 +16,37 @@ A name can not be an empty string. The species of a tree and the color are given
 ### Output
 Output the single number - the number of Alyona's leaves.
 
-### Examples
-Input
-5
-birch yellow
-maple red
-birch yellow
-maple yellow
-maple green
+## Examples
+### Sample-1
+**Input**
 
-Output
-4
+`5`
 
-Input
-3
-oak yellow
-oak yellow
-oak yellow
+`birch` `yellow`
 
-Output
-1
+`maple` `red`
+
+`birch` `yellow`
+
+`maple` `yellow`
+
+`maple` `green`
+
+**Output**
+
+`4`
+
+### Sample-2
+**Input**
+
+`3`
+
+`oak` `yellow`
+
+`oak` `yellow`
+
+`oak` `yellow`
+
+**Output**
+
+`1`
